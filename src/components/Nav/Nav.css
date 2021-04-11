@@ -1,9 +1,13 @@
 .broider {
     width: 92%;
-    height: 5%;
+    height: 30%;
     border-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACoAAAAqCAYAAADFw8lbAAAA4klEQVRYR+1YQQ7AIAjT/z96S4wHtyxSSCGBueu0raVgtt6SPD2JzuYh9JqHp2JTwabAMKFvIhfiJXIQ35ej0EZitiG+XelRJyUiK87Di9RCJYeIVR9QEF+JjFqdQzOpwk89R1UnjVrs4aiL9iOUbStj4LM0badFCaEspyg4KZtJunPZN46Kb3VUtZFQTxVfytITTPKDKDGe2M0j2W0e+BJw6PvTTGy7f+2oSxN6OBomVLra2PGD+Ep816MllByx4px/T9bsShUZuCUyynLIigNn1EqANo8K32PgqwSgi9MIvQHmclArPx2YDwAAAABJRU5ErkJggg==") 14 / 14px / 0 round;
     border-width: 14px;
     border-style: solid;
+    display: flex;
+    justify-content: center;
+    margin: 0px 20px 20px 40px;
+    font-size: 13px;
 }
 
 .nav {
@@ -21,4 +25,5 @@
     align-items: center;
     text-shadow: 0px 0px 10px #a686f1;
     border-radius: 20px;
+    margin: 0px;
 }
