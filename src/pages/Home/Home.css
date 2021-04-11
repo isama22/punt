@@ -1,11 +1,15 @@
 .home {
-    margin-top: 40%;
-    margin-left: 30%;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+    padding-left: 3%;
+}
 
+.home-box {
     background-color: rgba(57, 27, 27, 0.945);
     background-color: #370707;
-    height: 60%;
-    width: 60%;
+    height: 34vw;
+    width: 74%;
     margin: 10px;
     border: solid 2px #ac5955;
     box-shadow: 20px 0px 150px rgb(19, 15, 249, 0.86);
@@ -13,6 +17,4 @@
     flex-direction: column;
     align-items: center;
     box-shadow: -2px -1px 250px rgb(0, 248, 124);
-
-
 }
