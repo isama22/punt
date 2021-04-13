@@ -9,8 +9,20 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    overflow: scroll;
 }
 
+.user-info {
+    font-size: 12px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: #ac5955;
+}
+
+.username {
+    font-size: 12px;
+}
 
 .avatar-border {
     border: solid 1px red;
@@ -32,6 +44,7 @@
     /* width: 100%;
     height: 100%; */
 }
+
 .avatar-img {
     width: 12vw;
     height: 15vw;
@@ -40,4 +53,10 @@
     /* margin-top: 3vw; */
     /* border: solid 1px red;
     padding: 10px; */
+}
+
+.bio-text {
+    color: #ac5955;
+    width: 80%;
+    font-size: 12px;
 }
