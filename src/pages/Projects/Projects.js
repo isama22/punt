@@ -1,8 +1,12 @@
+import Bio from '../../components/Bio/Bio'
 
 function Projects() {
   return (
-    <div className="">
-        <h1>projects</h1>
+    <div className="home">
+      <Bio />
+      <div className="home-box">
+        <h1>blog</h1>
+      </div>
     </div>
   );
 }
