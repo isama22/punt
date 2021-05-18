@@ -5,7 +5,7 @@ function Projects() {
     <div className="home">
       <Bio />
       <div className="home-box">
-        <h1>blog</h1>
+        <h1>projects</h1>
       </div>
     </div>
   );

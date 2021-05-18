@@ -5,7 +5,7 @@ function Nav() {
     return (
         <div className="broider">
             <div className="nav">
-                <Link to='/'>Home</Link>
+                <Link to='/'>/•/•/</Link>
                 &nbsp;
                 <Link to='/hello'>𝗵𝗲𝗹𝗹𝗼</Link>
                 &nbsp;

@@ -17,7 +17,7 @@
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    color: #ac5955;
+    color: #a7bfdb;
 }
 
 .username {
@@ -56,7 +56,7 @@
 }
 
 .bio-text {
-    color: #ac5955;
+    color: #a7bfdb;
     width: 80%;
     font-size: 12px;
 }
