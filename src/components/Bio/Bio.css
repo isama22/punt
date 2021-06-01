@@ -54,7 +54,12 @@
     /* border: solid 1px red;
     padding: 10px; */
 }
-
+.avatar-img:hover {
+    box-shadow: 0px 0px 50px 0px rgba(19, 46, 197, 0.78);
+}
+.bio:hover {
+    box-shadow: 20px 0px 150px rgba(249, 15, 249, 0.86);
+}
 .bio-text {
     color: #a7bfdb;
     width: 80%;
