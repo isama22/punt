@@ -7,7 +7,7 @@ function Nav() {
             <div className="nav">
                 <Link to='/'>/•/•/</Link>
                 &nbsp;
-                <Link to='/hello'>𝗵𝗲𝗹𝗹𝗼</Link>
+                <Link to='/hello'>writings</Link>
                 &nbsp;
                 <Link to='/projects'>𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀</Link>
                 &nbsp;
