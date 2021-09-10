@@ -13,6 +13,10 @@ function Nav() {
                 <Link to='/projects'>𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀</Link>
                 &nbsp;
                 <Link to='/blog'>𝗯𝗹𝗼𝗴</Link>
+                &nbsp;
+                <Link to='/login'>login</Link>
+                &nbsp;
+                <Link to='/signup'>signup</Link>
             </div>
         </div>
     );

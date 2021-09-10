@@ -7,9 +7,9 @@ function Home() {
         <div className="home">
             <Bio />
             <div className="home-box">
-                <div className="post">
+                {/* <div className="post">
                     post!
-                </div>
+                </div> */}
             </div>
         </div>
     );

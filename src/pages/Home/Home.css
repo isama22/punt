@@ -6,12 +6,13 @@
 }
 
 .home-box {
-    background-color: rgba(57, 27, 27, 0.945);
-    background-color: #370707;
+    background-color: rgba(134, 54, 54, 0.945);
+    background-color: #5b48edf8;
     /* height: 34vw; */
-    height: 900px;
+    /* height: 900px; */
     width: 74%;
-    /* margin: 10px; */
+    margin-left: 100px;
+    margin-right: 70px;
     border: solid 2px #ac5955;
     box-shadow: 20px 0px 150px rgb(19, 15, 249, 0.86);
     display: flex;
