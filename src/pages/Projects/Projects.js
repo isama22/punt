@@ -1,3 +1,5 @@
+import React from 'react'
+
 import Bio from '../../components/Bio/Bio'
 
 function Projects() {
