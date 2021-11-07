@@ -8,13 +8,13 @@ function Nav() {
             <div className="nav">
                 <Link to='/'>(´･ᴗ･ ` )</Link>
                 &nbsp;
-                <Link to='/hello'>writing</Link>
+                <Link to='/writing'>writing</Link>
                 &nbsp;
-                <Link to="/">gestural</Link>
+                <Link to="/gestural">gestural</Link>
                 &nbsp;
-                <Link to="/">figurative</Link>
+                <Link to="/figurative">figurative</Link>
                 &nbsp;
-                <Link to="/">photo</Link>
+                <Link to="/photo">photo</Link>
             </div>
         </div>
     );
