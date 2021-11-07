@@ -6,17 +6,15 @@ function Nav() {
     return (
         <div className="broider">
             <div className="nav">
-                <Link to='/'>/•/•/</Link>
+                <Link to='/'>(´･ᴗ･ ` )</Link>
                 &nbsp;
-                <Link to='/hello'>writings</Link>
+                <Link to='/hello'>writing</Link>
                 &nbsp;
-                <Link to='/projects'>𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀</Link>
+                <Link to="/">gestural</Link>
                 &nbsp;
-                <Link to='/blog'>𝗯𝗹𝗼𝗴</Link>
+                <Link to="/">figurative</Link>
                 &nbsp;
-                <Link to='/login'>login</Link>
-                &nbsp;
-                <Link to='/signup'>signup</Link>
+                <Link to="/">photo</Link>
             </div>
         </div>
     );
